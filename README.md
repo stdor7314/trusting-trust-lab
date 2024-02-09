@@ -1,6 +1,6 @@
 # Lab for "Reflections on Trusting Trust"
 
-This lab tries to mimick the attack as described in the classic security paper [Reflections on Trusting Trust](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf).
+This lab tries to mimic the attack as described in the classic security paper [Reflections on Trusting Trust](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf).
 
 ## How to run
 
